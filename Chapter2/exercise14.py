@@ -2,6 +2,7 @@
 # @title Chapter 2, Exercise 14
 # @description Calculate compound interest
 
+
 def read_it(prompt):
     # read a single value, makes sure it is a valid number, and return it
     valid = False
@@ -31,6 +32,6 @@ years = read_it("Enter the number of years: ")
 rate = read_it("Enter your interest rate: ")
 rate /= 100.0
 
-total = interest( principal, num_compounds, years, rate)
+total = interest(principal, num_compounds, years, rate)
 
 print("Your will have %.2f after this compounding takes place" % total)
