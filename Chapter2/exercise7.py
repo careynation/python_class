@@ -1,5 +1,5 @@
 # @author Carey Nation
-# @title Chapter 2, Exercise 6
+# @title Chapter 2, Exercise 7
 # @description Calculate county and state sales tax for a sale
 
 
