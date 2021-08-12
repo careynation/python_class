@@ -1,5 +1,5 @@
 # @author Carey Nation
-# @title Chapter 2, Exercise 2
+# @title Chapter 2, Exercise 3
 # @description Calculate acreage
 
 sq_ft_per_acre = 43560

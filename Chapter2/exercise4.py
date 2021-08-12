@@ -1,5 +1,5 @@
 # @author Carey Nation
-# @title Chapter 2, Exercise 2
+# @title Chapter 2, Exercise 4
 # @description Calculate sales amount, sales tax, and total cost for five items
 
 # read a single value, makes sure it is a valid number, and return it
