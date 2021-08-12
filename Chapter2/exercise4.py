@@ -25,7 +25,9 @@ total_sales = 0
 for i in range(5):
     total_sales += read_it("Please enter the price for item %d: " % (1 + i))
 
-sales_tax = 0.07 * total_sales
+SALES_TAX_RATE = 0.07
+
+sales_tax = SALES_TAX_RATE * total_sales
 
 print("\nSubtotal:  %.2f" % total_sales)
 print("Sales tax: %.2f" % sales_tax)

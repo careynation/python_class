@@ -3,8 +3,11 @@
 # @description Calculate distance traveled
 
 
+SPEED = 70
+
+
 def distance(time):
-    return time * 70
+    return time * SPEED
 
 
 print("Distance in six hours: %.2f miles" % distance(6))
