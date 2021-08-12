@@ -1,5 +1,5 @@
 # @author Carey Nation
-# @title Chapter 2, Exercise 7
+# @title Chapter 2, Exercise 8
 # @description Calculate tip and tax for a meal
 
 TIP_RATE = 0.18
